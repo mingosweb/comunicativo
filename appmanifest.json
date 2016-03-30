@@ -1,6 +1,6 @@
 ﻿{
-	"name": "game-prototype",
-	"short_name": "game-prototype",
+	"name": "comunicacion",
+	"short_name": "comunicacion",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
